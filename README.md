@@ -7,7 +7,7 @@ The Clustering of Fata Traffic Collisions on I-5 in 2016 shows the separation, i
 Traffic collision data: https://www-fars.nhtsa.dot.gov/Main/index.aspx
 Straight to FTP: ftp://ftp.nhtsa.dot.gov/FARS
 The NationalCSV datasets are being examined. The accident.csv files specifically have the data I am looking at. 
-
+Day of week = 1 means Sunday
 
 Course data on roadways broken down by type: https://www.fhwa.dot.gov/policyinformation/hpms/fieldmanual/page03.cfm
 
